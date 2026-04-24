@@ -3,3 +3,7 @@
 - Alteração no github
 
 - Alteração remota no README
+
+- Alteração local
+
+- Um conflito local
