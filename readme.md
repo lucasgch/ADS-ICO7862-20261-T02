@@ -6,4 +6,4 @@
 
 - Alteração local
 
-- Um conflito local
+- Conflito local e remoto resolvido
