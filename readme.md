@@ -5,3 +5,5 @@
 - Alteração remota no README
 
 - Nova alteração no repositório remoto
+
+- Conflito remoto
